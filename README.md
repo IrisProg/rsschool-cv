@@ -1,1 +1,1 @@
-https://IrisProg.github.io/rsschool-cv/cv
+https://IrisProg.github.io/rsschool-cv/
