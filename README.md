@@ -1,1 +1,1 @@
-# rsschool-cv
+https://IrisProg.github.io/rsschool-cv/
